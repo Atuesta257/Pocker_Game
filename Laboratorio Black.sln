@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio Black", "Laboratorio Black.csproj", "{AAE9DDD1-5875-44F0-8710-D5772C4F3565}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Library", "..\Class Library\Class Library.csproj", "{60AA6A00-7E74-4083-B991-A3E5DEAAC524}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary", "..\Class Library\ClassLibrary.csproj", "{60AA6A00-7E74-4083-B991-A3E5DEAAC524}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
